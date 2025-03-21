@@ -1,17 +1,15 @@
 # try-catch-ts
 
-To install dependencies:
+To install the dependencies:
 
 ```bash
 bun install
 ```
 
-To run:
+Scritps of the application:
 
-```bash
-bun start # in normal mode
-
-bun dev # in watch mode
-```
+- `bun start`: runs the application in normal mode
+- `bun dev`: runs the application in watch mode
+- `bun test`: runs the tests
 
 This project was created using `bun init` in bun v1.1.42. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
